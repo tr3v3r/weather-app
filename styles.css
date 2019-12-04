@@ -1,0 +1,16 @@
+html, body {
+    height: 100%
+}
+
+body {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+}
+
+form * {    
+    font-size: x-large;
+    margin: 0 10px;
+}
+
